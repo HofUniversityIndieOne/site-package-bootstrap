@@ -1,0 +1,7 @@
+#
+# PageTS for Site Package  Bootstrap
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:site_package_bootstrap/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:site_package_bootstrap/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:site_package_bootstrap/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:site_package_bootstrap/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">
