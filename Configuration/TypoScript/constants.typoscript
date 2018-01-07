@@ -50,9 +50,12 @@ plugin.bootstrap_package_contentelements {
     }
 }
 
+# Logo
+page.logo.file = EXT:site_package_bootstrap/Resources/Public/Images/car-logo.svg
+
 
 #######################################
 ### REMOVE BOOTSTRAP LESS CONSTANTS ###
 #######################################
-plugin.bootstrap_package.settings.less >
-plugin.bootstrap_package.settings.overrideLessVariables >
+# plugin.bootstrap_package.settings.less >
+# plugin.bootstrap_package.settings.overrideLessVariables >

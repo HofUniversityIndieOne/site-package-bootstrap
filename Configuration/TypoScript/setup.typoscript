@@ -20,7 +20,7 @@ page {
     }
 
     includeCSS {
-        theme = EXT:site_package_bootstrap/Resources/Public/Css/theme.min.css
+        theme = EXT:site_package_bootstrap/Resources/Public/Less/theme.less
     }
 
     includeJSLibs {
